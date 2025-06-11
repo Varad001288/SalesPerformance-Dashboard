@@ -74,7 +74,7 @@ This dashboard helps businesses monitor their sales performance efficiently and 
 
 ## 📬 Contact Information
 
-Prathviraj Chavan  
+Varad Nirale 
 🎓 TYBCA-A, Specialization in Data Science  
 📧 [varadn2003@gmail.com](mailto:varadn2003@gmail.com)  
 📧 [VARAD.BCA2302025@SBUP.EDU.IN](mailto:VARAD.BCA2302025@SBUP.EDU.IN)  
