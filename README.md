@@ -72,3 +72,13 @@ The Sales Performance Dashboard is designed to help stakeholders visualize and a
 
 This dashboard helps businesses monitor their sales performance efficiently and make data-driven decisions. It is a flexible and dynamic tool suitable for sales managers, analysts, and decision-makers.
 
+## 📬 Contact Information
+
+Prathviraj Chavan  
+🎓 TYBCA-A, Specialization in Data Science  
+📧 [varadn2003@gmail.com](mailto:varadn2003@gmail.com)  
+📧 [VARAD.BCA2302025@SBUP.EDU.IN](mailto:VARAD.BCA2302025@SBUP.EDU.IN)  
+📱 ‪‪+91-8767920232‬‬  
+🏫 Sri Balaji University, Pune  
+
+---
