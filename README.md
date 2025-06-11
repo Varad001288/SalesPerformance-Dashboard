@@ -1,8 +1,9 @@
-# SalesPerformance-Dashboard
+# Sales Performance Dashboard
+
 This project showcases a comprehensive Sales Performance Dashboard built using Power BI, providing real-time insights into key business metrics such as Total Sales, **Profit, **Monthly Trends, and **Category-wise Performance across different regions.
 
 
-# Sales Performance Dashboard Project Screenshot 
+# Project Screenshot 
 ![WhatsApp इमेज 2025-06-11 रोजी 20 04 20 वाजता पाठवली_3e1a97ee](https://github.com/user-attachments/assets/c48f01dd-046e-4746-bbdf-c13cdab2f498)
 
 
